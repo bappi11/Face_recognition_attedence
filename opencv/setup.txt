@@ -1,0 +1,7 @@
+pip install opencv-contrib-python
+
+pip install Pillow
+
+pip install opencv-python
+
+pip install openpyxl
