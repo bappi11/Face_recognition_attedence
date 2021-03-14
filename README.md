@@ -10,3 +10,10 @@
   
 <h3>Then it will output exel formate file with date and all student roll and im the student is absent it show "A" else "P" for present</h3>
 <img src="opencv/image_for_demo/attendence.PNG">
+
+<p>python library for this code</p>
+
+<p>pip install opencv-python</p>
+<p>pip install opencv-contrib-python</p>
+<p>pip install Pillow</p>
+<p>pip install openpyxl
